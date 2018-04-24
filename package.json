@@ -1,0 +1,28 @@
+{
+  "name": "space_invaders",
+  "version": "1.0.0",
+  "description": "A Javascript game project",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AderCode/space-invaders-js.git"
+  },
+  "keywords": [
+    "space",
+    "invaders",
+    "js",
+    "javascript"
+  ],
+  "author": "Matthew Aderhold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AderCode/space-invaders-js/issues"
+  },
+  "homepage": "https://github.com/AderCode/space-invaders-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
